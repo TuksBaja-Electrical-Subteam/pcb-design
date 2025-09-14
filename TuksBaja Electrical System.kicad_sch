@@ -1875,6 +1875,42 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Library" "C:\\Users\\User-PC\\Downloads\\snvma62\\LM2596_ADJ_TRANS.LIB"
+			(at 85.09 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "LM2596_ADJ_TRANS"
+			(at 85.09 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 85.09 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=VIN 2=FB 3=OUT 4=GND 5=ON_OFF_N"
+			(at 85.09 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f67b3601-9699-464a-954f-afbe710523b5")
 		)
