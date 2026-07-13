@@ -1,0 +1,11 @@
+# KiCad
+*.lck
+\#auto_saved_files\#
+_autosave-*
+*-backups/
+*.kicad_prl
+fp-info-cache
+
+# Fab outputs (regenerate on demand)
+gerbers/
+*.zip
