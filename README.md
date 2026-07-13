@@ -37,7 +37,7 @@ Key design decisions:
 
 ## Requirements
 
-- **KiCad 9.0 or later** — [kicad.org/download](https://www.kicad.org/download/)
+- **KiCad 10.0 or later** — [kicad.org/download](https://www.kicad.org/download/)
 - Libraries in `libs/` are registered as **project-specific** libraries using `${KIPRJMOD}` paths, so they work automatically after cloning. If a symbol/footprint shows as missing, check Preferences → Manage Symbol/Footprint Libraries → Project Specific Libraries.
 - For fabrication exports: install the **Fabrication Toolkit** plugin (Tools → Plugin and Content Manager) — generates Gerbers, BOM, and CPL in JLCPCB format.
 
